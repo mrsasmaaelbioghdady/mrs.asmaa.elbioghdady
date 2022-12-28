@@ -1,0 +1,45 @@
+p{
+    color: rgba(255, 94, 0, 0.815);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+h2{
+    color: crimson;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+h3{
+    color: darkgoldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-size: 20px;
+}
+#tel{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#head1{
+    height: 160px;
+    width: 1320px;
+    background: rgb(77, 77, 197);
+    border: 5px black solid;
+    font-family: arial;
+}
+#teacher{
+    text-align: center;
+}
+#all{
+    background-image: url("logo.jpg");
+    background-size: 1350px 620px;
+    background-attachment: fixed;
+    background-color: rgba(240, 248, 255, 0.466);
+}
+#num{
+    text-decoration: none;
+    text-align: center;
+    color: red;
+}
+#num:hover{
+    color: blue;
+}
