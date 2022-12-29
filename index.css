@@ -20,7 +20,7 @@ h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #head1{
-    height: 160px;
+    height: 100%;
     width: 100%;
     background: rgb(77, 77, 197);
     border: 5px black solid;
