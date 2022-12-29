@@ -31,7 +31,7 @@ h3{
 }
 #all{
     background-image: url("logo.jpg");
-    background-size: 1350px 620px;
+    background-size: 100%;
     background-attachment: fixed;
     background-color: rgba(240, 248, 255, 0.466);
 }
