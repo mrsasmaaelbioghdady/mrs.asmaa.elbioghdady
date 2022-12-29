@@ -30,10 +30,10 @@ h3{
     text-align: center;
 }
 #all{
-    background-image: url("logo.jpg");
+
     background-size: 100%;
     background-attachment: fixed;
-    background-color: rgba(240, 248, 255, 0.466);
+    background-color: rgba(5, 153, 252, 0.466);
 }
 #num{
     text-decoration: none;
@@ -42,4 +42,7 @@ h3{
 }
 #num:hover{
     color: blue;
+}
+#Student{
+    text-align: center;
 }
